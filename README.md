@@ -4,8 +4,8 @@
 
 - UI: Interfaces
   - Chart graphique (maquettage de prototype)
-  - la langue
-- Sénarios
-  - Rédaction de sénario en français
-  - Rédaction de sénario en UML
-  - Validation de sénario sur l'application
+  - Langue
+- Scénarios
+  - Rédaction de scénarios en français
+  - Rédaction de scénarios en UML
+  - Validation des scénarios dans l'application
