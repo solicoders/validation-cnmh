@@ -28,3 +28,6 @@ Carte d'empathie du service sociale :
 
 <img src="imgs\Carted'empathie2.png">
 
+### Solution
+
+[test-Scenario-gestion-rendez-vous](https://docs.google.com/presentation/d/15Nah7leOSqeGvJ32_7RseQEw62T39jUdLkepQu44uyU/edit?usp=sharing)
