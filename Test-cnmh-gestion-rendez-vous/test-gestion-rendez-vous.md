@@ -11,22 +11,6 @@
   - Chart graphique (maquettage de prototype)
   - Langue
 
-### Entrer 
-
-l'interface du rendez-vous dans l'application :
-
-<img src="imgs\rendez.png">
-
-
-Diagramme de cas d'utilisation :
-
-<img src="imgs\Casd'utilisationsprint1.png">
-
-Carte d'empathie du service sociale : 
-
-<img src="imgs\Carted'empathie.png">
-
-<img src="imgs\Carted'empathie2.png">
 
 ### Solution
 
