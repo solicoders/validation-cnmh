@@ -8,7 +8,8 @@ tester la parti gestion de rondez-vous  dane l'aplication CNMH
 ## Dossier important pour la réalisation  
 
 ### cas d'utilisation sprint 1
-![Désert Doré](./images/cas-d'utilisation.jpg)
+
+<img src="./images/cas-d'utilisation.jpg" width="3000px">
 ### Empathie : Service social 
 Une séance d’empathie a été réalisée avec Khawla souan, en tant que personnel du service social, le 20 mars 2023.
 
