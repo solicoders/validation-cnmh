@@ -24,4 +24,6 @@ Les dossiers enregistrés sont transmis à l'infirmière.***
  - Il saisit les informations sur le bénéficiaire dans un tableau Excel via une application, comprenant le numéro de dossier, le nom, le prénom, le sexe, la date de naissance, l'âge, le type de handicap (TH), la couverture médicale (cnops, cnss, assurance, FAR, sans), la date d'enregistrement et la date d'entrée.
  - Le personnel de service social assure donc la gestion et le suivi des dossiers, en veillant à enregistrer les informations nécessaires et à les transmettre aux professionnels de santé concernés.
 
+ ### livrable 
+[test gestion de rndrez-vous](https://docs.google.com/presentation/d/1luu2I15lqcZz_IBHsKKUXHUB_z8J6OTUABWGcb1eY_8/edit?usp=sharing)
 
