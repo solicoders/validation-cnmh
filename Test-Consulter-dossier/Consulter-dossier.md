@@ -1,7 +1,7 @@
-# Test gestion-rendez-vous 
+# Test Consultation du dossier 
 
 ## travail à faire :
- tester gestion des rendez-vous  
+ tester Consultation du dossier
 
  ### Critere de validation 
  - Scénarios  :
@@ -11,7 +11,6 @@
   - Chart graphique (maquettage de prototype)
   - Langue
 
-
 ### Solution
 
-[test-Scenario-gestion-rendez-vous](https://docs.google.com/presentation/d/15Nah7leOSqeGvJ32_7RseQEw62T39jUdLkepQu44uyU/edit?usp=sharing)
+[test-consultation-dossier](https://docs.google.com/presentation/d/18gRgHg6iAl7_ycgi5RSAn0T8AQ3FPVu1v4s4NvziIBM/edit?usp=sharing)
