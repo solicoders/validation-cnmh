@@ -1,4 +1,4 @@
-# Test gestion-rendez-vous 
+# Test Consultation dossier
 
 ## travail à faire :
  tester Consultation du dossier
@@ -13,4 +13,4 @@
 
 ### Solution
 
-[test-Scenario-gestion-rendez-vous](https://docs.google.com/presentation/d/18gRgHg6iAl7_ycgi5RSAn0T8AQ3FPVu1v4s4NvziIBM/edit?usp=sharing)
+[Consulter dossier](https://docs.google.com/presentation/d/18gRgHg6iAl7_ycgi5RSAn0T8AQ3FPVu1v4s4NvziIBM/edit?usp=sharing)
